@@ -1,0 +1,4 @@
+[0111/190717.325:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0113/222218.374:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0114/210333.344:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
+[0118/093927.807:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)
